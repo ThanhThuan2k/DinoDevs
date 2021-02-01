@@ -1,0 +1,9 @@
+D:\C#\DinoDevs\DinoTeam.Modules\DinoTeam.Modules\bin\Debug\netstandard2.0\DinoTeam.Modules.deps.json
+D:\C#\DinoDevs\DinoTeam.Modules\DinoTeam.Modules\bin\Debug\netstandard2.0\DinoTeam.Modules.dll
+D:\C#\DinoDevs\DinoTeam.Modules\DinoTeam.Modules\bin\Debug\netstandard2.0\DinoTeam.Modules.pdb
+D:\C#\DinoDevs\DinoTeam.Modules\DinoTeam.Modules\obj\Debug\netstandard2.0\DinoTeam.Modules.csprojAssemblyReference.cache
+D:\C#\DinoDevs\DinoTeam.Modules\DinoTeam.Modules\obj\Debug\netstandard2.0\DinoTeam.Modules.AssemblyInfoInputs.cache
+D:\C#\DinoDevs\DinoTeam.Modules\DinoTeam.Modules\obj\Debug\netstandard2.0\DinoTeam.Modules.AssemblyInfo.cs
+D:\C#\DinoDevs\DinoTeam.Modules\DinoTeam.Modules\obj\Debug\netstandard2.0\DinoTeam.Modules.csproj.CoreCompileInputs.cache
+D:\C#\DinoDevs\DinoTeam.Modules\DinoTeam.Modules\obj\Debug\netstandard2.0\DinoTeam.Modules.dll
+D:\C#\DinoDevs\DinoTeam.Modules\DinoTeam.Modules\obj\Debug\netstandard2.0\DinoTeam.Modules.pdb
