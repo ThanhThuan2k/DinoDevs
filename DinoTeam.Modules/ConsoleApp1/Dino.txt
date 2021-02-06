@@ -1,0 +1,2 @@
+﻿[2/6/2021 8:31:01 PM][Debug][From controller: Dino, action: Hihi]
+[2/6/2021 8:31:13 PM][Info][From controller: Primary, action: Index]

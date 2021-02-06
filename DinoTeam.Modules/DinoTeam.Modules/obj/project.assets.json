@@ -25,6 +25,16 @@
         "build": {
           "build/netstandard2.0/NETStandard.Library.targets": {}
         }
+      },
+      "DinoDevs.Classes/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/DinoDevs.Classes.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DinoDevs.Classes.dll": {}
+        }
       }
     }
   },
@@ -172,10 +182,16 @@
         "netstandard.library.2.0.3.nupkg.sha512",
         "netstandard.library.nuspec"
       ]
+    },
+    "DinoDevs.Classes/1.0.0": {
+      "type": "project",
+      "path": "../DinoDevs.Classes/DinoDevs.Classes.csproj",
+      "msbuildProject": "../DinoDevs.Classes/DinoDevs.Classes.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETStandard,Version=v2.0": [
+      "DinoDevs.Classes >= 1.0.0",
       "NETStandard.Library >= 2.0.3"
     ]
   },
@@ -210,7 +226,11 @@
       "frameworks": {
         "netstandard2.0": {
           "targetAlias": "netstandard2.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\C#\\DinoDevs\\DinoTeam.Modules\\DinoDevs.Classes\\DinoDevs.Classes.csproj": {
+              "projectPath": "D:\\C#\\DinoDevs\\DinoTeam.Modules\\DinoDevs.Classes\\DinoDevs.Classes.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

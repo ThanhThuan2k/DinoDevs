@@ -1,0 +1,9 @@
+D:\C#\DinoDevs\DinoTeam.Modules\DinoDevs.Classes\bin\Debug\netstandard2.0\DinoDevs.Classes.deps.json
+D:\C#\DinoDevs\DinoTeam.Modules\DinoDevs.Classes\bin\Debug\netstandard2.0\DinoDevs.Classes.dll
+D:\C#\DinoDevs\DinoTeam.Modules\DinoDevs.Classes\bin\Debug\netstandard2.0\DinoDevs.Classes.pdb
+D:\C#\DinoDevs\DinoTeam.Modules\DinoDevs.Classes\obj\Debug\netstandard2.0\DinoDevs.Classes.AssemblyInfoInputs.cache
+D:\C#\DinoDevs\DinoTeam.Modules\DinoDevs.Classes\obj\Debug\netstandard2.0\DinoDevs.Classes.AssemblyInfo.cs
+D:\C#\DinoDevs\DinoTeam.Modules\DinoDevs.Classes\obj\Debug\netstandard2.0\DinoDevs.Classes.csproj.CoreCompileInputs.cache
+D:\C#\DinoDevs\DinoTeam.Modules\DinoDevs.Classes\obj\Debug\netstandard2.0\DinoDevs.Classes.dll
+D:\C#\DinoDevs\DinoTeam.Modules\DinoDevs.Classes\obj\Debug\netstandard2.0\DinoDevs.Classes.pdb
+D:\C#\DinoDevs\DinoTeam.Modules\DinoDevs.Classes\obj\Debug\netstandard2.0\DinoDevs.Classes.csprojAssemblyReference.cache

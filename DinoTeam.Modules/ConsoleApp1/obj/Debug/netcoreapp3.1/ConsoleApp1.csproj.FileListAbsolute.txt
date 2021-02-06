@@ -14,3 +14,5 @@ D:\C#\DinoDevs\DinoTeam.Modules\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.
 D:\C#\DinoDevs\DinoTeam.Modules\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
 D:\C#\DinoDevs\DinoTeam.Modules\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb
 D:\C#\DinoDevs\DinoTeam.Modules\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.genruntimeconfig.cache
+D:\C#\DinoDevs\DinoTeam.Modules\ConsoleApp1\bin\Debug\netcoreapp3.1\DinoDevs.Classes.dll
+D:\C#\DinoDevs\DinoTeam.Modules\ConsoleApp1\bin\Debug\netcoreapp3.1\DinoDevs.Classes.pdb

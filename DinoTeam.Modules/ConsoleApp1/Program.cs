@@ -7,9 +7,7 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            string thuan = "thuan";
-            thuan = thuan.Hash();
-            Console.WriteLine(thuan);
+
         }
     }
 }

@@ -14,7 +14,15 @@
           "ConsoleApp1.dll": {}
         }
       },
+      "DinoDevs.Classes/1.0.0": {
+        "runtime": {
+          "DinoDevs.Classes.dll": {}
+        }
+      },
       "DinoTeam.Modules/1.0.0": {
+        "dependencies": {
+          "DinoDevs.Classes": "1.0.0"
+        },
         "runtime": {
           "DinoTeam.Modules.dll": {}
         }
@@ -23,6 +31,11 @@
   },
   "libraries": {
     "ConsoleApp1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DinoDevs.Classes/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

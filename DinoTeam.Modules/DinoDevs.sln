@@ -3,9 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30907.101
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DinoTeam.Modules", "DinoTeam.Modules\DinoTeam.Modules.csproj", "{8418B678-5FDA-4CB7-9255-2DE60ECB1884}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DinoTeam.Modules", "DinoTeam.Modules\DinoTeam.Modules.csproj", "{8418B678-5FDA-4CB7-9255-2DE60ECB1884}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{B3A22CEA-012F-47D8-B08A-2447D374D019}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{B3A22CEA-012F-47D8-B08A-2447D374D019}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DinoDevs.Classes", "DinoDevs.Classes\DinoDevs.Classes.csproj", "{D373639D-799F-4AD7-9EB9-08B851E93CE4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DinoDevs.Web", "DinoDevs.Web\DinoDevs.Web.csproj", "{008938D2-7886-40A9-8A40-A146C0E78B9B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +25,14 @@ Global
 		{B3A22CEA-012F-47D8-B08A-2447D374D019}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B3A22CEA-012F-47D8-B08A-2447D374D019}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B3A22CEA-012F-47D8-B08A-2447D374D019}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D373639D-799F-4AD7-9EB9-08B851E93CE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D373639D-799F-4AD7-9EB9-08B851E93CE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D373639D-799F-4AD7-9EB9-08B851E93CE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D373639D-799F-4AD7-9EB9-08B851E93CE4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{008938D2-7886-40A9-8A40-A146C0E78B9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{008938D2-7886-40A9-8A40-A146C0E78B9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{008938D2-7886-40A9-8A40-A146C0E78B9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{008938D2-7886-40A9-8A40-A146C0E78B9B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
