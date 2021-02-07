@@ -21,8 +21,9 @@ namespace DinoDevs.Web.Controllers
         public IActionResult Index()
         {
             string actionName = this.ControllerContext.RouteData.Values["action"].ToString();
-            Logger logger = new Logger(actionName: actionName, controllerName: ControllerName, logLevel: "Info");
-            log.Debug(logger, "");
+            Logger logger = new Logger(actionName: actionName, controllerName: ControllerName, logLevel: "Error",
+                more: "Divide for zero exception");
+            log.Error(logger, "");
             log.Close();
             return View();
         }
